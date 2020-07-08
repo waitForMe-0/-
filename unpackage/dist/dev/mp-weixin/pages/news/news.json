@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "news-item": "/pages/components/news-item/news-item"
+  }
+}
